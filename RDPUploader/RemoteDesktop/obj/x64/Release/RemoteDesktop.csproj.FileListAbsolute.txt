@@ -1,0 +1,6 @@
+C:\C#\Project\Remote\Brute\RemoteDesktop\bin\x64\Release\RemoteDesktop.dll
+C:\C#\Project\Remote\Brute\RemoteDesktop\bin\x64\Release\RemoteDesktop.pdb
+C:\C#\Project\Remote\Brute\RemoteDesktop\obj\x64\Release\RemoteDesktop.Properties.Resources.resources
+C:\C#\Project\Remote\Brute\RemoteDesktop\obj\x64\Release\RemoteDesktop.csproj.GenerateResource.Cache
+C:\C#\Project\Remote\Brute\RemoteDesktop\obj\x64\Release\RemoteDesktop.dll
+C:\C#\Project\Remote\Brute\RemoteDesktop\obj\x64\Release\RemoteDesktop.pdb

@@ -1,0 +1,28 @@
+C:\C#\Project\Remote\Uploader\Rdp Uploader\Rdp Uploader\obj\Debug\Rdp Uploader.csprojResolveAssemblyReference.cache
+C:\C#\Project\Remote\Uploader\Rdp Uploader\Rdp Uploader\obj\Debug\MessageBox.baml
+C:\C#\Project\Remote\Uploader\Rdp Uploader\Rdp Uploader\obj\Debug\MainWindow.g.cs
+C:\C#\Project\Remote\Uploader\Rdp Uploader\Rdp Uploader\obj\Debug\MessageBox.g.cs
+C:\C#\Project\Remote\Uploader\Rdp Uploader\Rdp Uploader\obj\Debug\App.g.cs
+C:\C#\Project\Remote\Uploader\Rdp Uploader\Rdp Uploader\obj\Debug\RDP Uploader_MarkupCompile.cache
+C:\C#\Project\Remote\Uploader\Rdp Uploader\Rdp Uploader\obj\Debug\RDP Uploader_MarkupCompile.lref
+C:\Users\Administrator\Uploaderrdp\Rdp Uploader\Rdp Uploader\obj\Debug\Rdp Uploader.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Uploaderrdp\Rdp Uploader\Rdp Uploader\obj\Debug\App.g.cs
+C:\Users\Administrator\Uploaderrdp\Rdp Uploader\Rdp Uploader\obj\Debug\RDP Uploader_MarkupCompile.cache
+C:\Users\Administrator\Uploaderrdp\Rdp Uploader\Rdp Uploader\bin\Debug\RDP Uploader.exe.config
+C:\Users\Administrator\Uploaderrdp\Rdp Uploader\Rdp Uploader\bin\Debug\RDP Uploader.exe
+C:\Users\Administrator\Uploaderrdp\Rdp Uploader\Rdp Uploader\bin\Debug\RDP Uploader.pdb
+C:\Users\Administrator\Uploaderrdp\Rdp Uploader\Rdp Uploader\bin\Debug\RdpUploadClient.dll
+C:\Users\Administrator\Uploaderrdp\Rdp Uploader\Rdp Uploader\bin\Debug\RemoteDesktop.dll
+C:\Users\Administrator\Uploaderrdp\Rdp Uploader\Rdp Uploader\bin\Debug\RdpUploadClient.pdb
+C:\Users\Administrator\Uploaderrdp\Rdp Uploader\Rdp Uploader\bin\Debug\RemoteDesktop.pdb
+C:\Users\Administrator\Uploaderrdp\Rdp Uploader\Rdp Uploader\obj\Debug\MessageBox.baml
+C:\Users\Administrator\Uploaderrdp\Rdp Uploader\Rdp Uploader\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Uploaderrdp\Rdp Uploader\Rdp Uploader\obj\Debug\MessageBox.g.cs
+C:\Users\Administrator\Uploaderrdp\Rdp Uploader\Rdp Uploader\obj\Debug\RDP Uploader_MarkupCompile.lref
+C:\Users\Administrator\Uploaderrdp\Rdp Uploader\Rdp Uploader\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Uploaderrdp\Rdp Uploader\Rdp Uploader\obj\Debug\RDP Uploader.g.resources
+C:\Users\Administrator\Uploaderrdp\Rdp Uploader\Rdp Uploader\obj\Debug\RDP_Uploader.Properties.Resources.resources
+C:\Users\Administrator\Uploaderrdp\Rdp Uploader\Rdp Uploader\obj\Debug\Rdp Uploader.csproj.GenerateResource.Cache
+C:\Users\Administrator\Uploaderrdp\Rdp Uploader\Rdp Uploader\obj\Debug\RDP Uploader.exe.licenses
+C:\Users\Administrator\Uploaderrdp\Rdp Uploader\Rdp Uploader\obj\Debug\RDP Uploader.exe
+C:\Users\Administrator\Uploaderrdp\Rdp Uploader\Rdp Uploader\obj\Debug\RDP Uploader.pdb

@@ -1,0 +1,182 @@
+C:\C#\Project\Remote\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\RDP Uploader.exe
+C:\C#\Project\Remote\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\RDP Uploader.pdb
+C:\C#\Project\Remote\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\DevExpress.Data.v14.2.dll
+C:\C#\Project\Remote\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\DevExpress.Mvvm.v14.2.dll
+C:\C#\Project\Remote\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\DevExpress.Printing.v14.2.Core.dll
+C:\C#\Project\Remote\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\DevExpress.Xpf.Core.v14.2.dll
+C:\C#\Project\Remote\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\DevExpress.Xpf.LayoutControl.v14.2.dll
+C:\C#\Project\Remote\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\DevExpress.Xpf.Themes.MetropolisDark.v14.2.dll
+C:\C#\Project\Remote\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\RdpUploadClient.dll
+C:\C#\Project\Remote\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\RemoteDesktop.dll
+C:\C#\Project\Remote\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\xNet.dll
+C:\C#\Project\Remote\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\DevExpress.Data.v14.2.xml
+C:\C#\Project\Remote\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\DevExpress.Mvvm.v14.2.xml
+C:\C#\Project\Remote\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\DevExpress.Printing.v14.2.Core.xml
+C:\C#\Project\Remote\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\DevExpress.Xpf.Core.v14.2.xml
+C:\C#\Project\Remote\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\DevExpress.Xpf.LayoutControl.v14.2.xml
+C:\C#\Project\Remote\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\RdpUploadClient.pdb
+C:\C#\Project\Remote\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\RemoteDesktop.pdb
+C:\C#\Project\Remote\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\xNet.xml
+C:\C#\Project\Remote\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\de\DevExpress.Data.v14.2.resources.dll
+C:\C#\Project\Remote\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\es\DevExpress.Data.v14.2.resources.dll
+C:\C#\Project\Remote\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\ja\DevExpress.Data.v14.2.resources.dll
+C:\C#\Project\Remote\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\ru\DevExpress.Data.v14.2.resources.dll
+C:\C#\Project\Remote\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\de\DevExpress.Printing.v14.2.Core.resources.dll
+C:\C#\Project\Remote\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\es\DevExpress.Printing.v14.2.Core.resources.dll
+C:\C#\Project\Remote\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\ja\DevExpress.Printing.v14.2.Core.resources.dll
+C:\C#\Project\Remote\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\ru\DevExpress.Printing.v14.2.Core.resources.dll
+C:\C#\Project\Remote\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\de\DevExpress.Xpf.Core.v14.2.resources.dll
+C:\C#\Project\Remote\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\es\DevExpress.Xpf.Core.v14.2.resources.dll
+C:\C#\Project\Remote\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\ja\DevExpress.Xpf.Core.v14.2.resources.dll
+C:\C#\Project\Remote\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\ru\DevExpress.Xpf.Core.v14.2.resources.dll
+C:\C#\Project\Remote\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\de\DevExpress.Xpf.LayoutControl.v14.2.resources.dll
+C:\C#\Project\Remote\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\es\DevExpress.Xpf.LayoutControl.v14.2.resources.dll
+C:\C#\Project\Remote\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\ja\DevExpress.Xpf.LayoutControl.v14.2.resources.dll
+C:\C#\Project\Remote\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\ru\DevExpress.Xpf.LayoutControl.v14.2.resources.dll
+C:\C#\Project\Remote\Uploader\Rdp Uploader\Rdp Uploader\obj\Release\Rdp Uploader.csprojResolveAssemblyReference.cache
+C:\C#\Project\Remote\Uploader\Rdp Uploader\Rdp Uploader\obj\Release\MessageBox.baml
+C:\C#\Project\Remote\Uploader\Rdp Uploader\Rdp Uploader\obj\Release\MainWindow.g.cs
+C:\C#\Project\Remote\Uploader\Rdp Uploader\Rdp Uploader\obj\Release\MessageBox.g.cs
+C:\C#\Project\Remote\Uploader\Rdp Uploader\Rdp Uploader\obj\Release\App.g.cs
+C:\C#\Project\Remote\Uploader\Rdp Uploader\Rdp Uploader\obj\Release\RDP Uploader_MarkupCompile.cache
+C:\C#\Project\Remote\Uploader\Rdp Uploader\Rdp Uploader\obj\Release\RDP Uploader_MarkupCompile.lref
+C:\C#\Project\Remote\Uploader\Rdp Uploader\Rdp Uploader\obj\Release\MainWindow.baml
+C:\C#\Project\Remote\Uploader\Rdp Uploader\Rdp Uploader\obj\Release\RDP Uploader.g.resources
+C:\C#\Project\Remote\Uploader\Rdp Uploader\Rdp Uploader\obj\Release\RDP_Uploader.Properties.Resources.resources
+C:\C#\Project\Remote\Uploader\Rdp Uploader\Rdp Uploader\obj\Release\Rdp Uploader.csproj.GenerateResource.Cache
+C:\C#\Project\Remote\Uploader\Rdp Uploader\Rdp Uploader\obj\Release\RDP Uploader.exe.licenses
+C:\C#\Project\Remote\Uploader\Rdp Uploader\Rdp Uploader\obj\Release\RDP Uploader.exe
+C:\C#\Project\Remote\Uploader\Rdp Uploader\Rdp Uploader\obj\Release\RDP Uploader.pdb
+C:\C#\Project\Remote\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\RDP Uploader.exe.config
+C:\C#\Project\Remote\Исходный код аплоадера 2\Uploader\Rdp Uploader\Rdp Uploader\obj\Release\Rdp Uploader.csprojResolveAssemblyReference.cache
+C:\C#\Project\Remote\Исходный код аплоадера 2\Uploader\Rdp Uploader\Rdp Uploader\obj\Release\MessageBox.baml
+C:\C#\Project\Remote\Исходный код аплоадера 2\Uploader\Rdp Uploader\Rdp Uploader\obj\Release\MainWindow.g.cs
+C:\C#\Project\Remote\Исходный код аплоадера 2\Uploader\Rdp Uploader\Rdp Uploader\obj\Release\MessageBox.g.cs
+C:\C#\Project\Remote\Исходный код аплоадера 2\Uploader\Rdp Uploader\Rdp Uploader\obj\Release\App.g.cs
+C:\C#\Project\Remote\Исходный код аплоадера 2\Uploader\Rdp Uploader\Rdp Uploader\obj\Release\RDP Uploader_MarkupCompile.cache
+C:\C#\Project\Remote\Исходный код аплоадера 2\Uploader\Rdp Uploader\Rdp Uploader\obj\Release\RDP Uploader_MarkupCompile.lref
+C:\C#\Project\Remote\Исходный код аплоадера 2\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\RDP Uploader.exe.config
+C:\C#\Project\Remote\Исходный код аплоадера 2\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\RDP Uploader.exe
+C:\C#\Project\Remote\Исходный код аплоадера 2\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\RDP Uploader.pdb
+C:\C#\Project\Remote\Исходный код аплоадера 2\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\DevExpress.Data.v14.2.dll
+C:\C#\Project\Remote\Исходный код аплоадера 2\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\DevExpress.Mvvm.v14.2.dll
+C:\C#\Project\Remote\Исходный код аплоадера 2\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\DevExpress.Printing.v14.2.Core.dll
+C:\C#\Project\Remote\Исходный код аплоадера 2\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\DevExpress.Xpf.Core.v14.2.dll
+C:\C#\Project\Remote\Исходный код аплоадера 2\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\DevExpress.Xpf.LayoutControl.v14.2.dll
+C:\C#\Project\Remote\Исходный код аплоадера 2\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\DevExpress.Xpf.Themes.MetropolisDark.v14.2.dll
+C:\C#\Project\Remote\Исходный код аплоадера 2\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\RdpUploadClient.dll
+C:\C#\Project\Remote\Исходный код аплоадера 2\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\RemoteDesktop.dll
+C:\C#\Project\Remote\Исходный код аплоадера 2\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\DevExpress.Data.v14.2.xml
+C:\C#\Project\Remote\Исходный код аплоадера 2\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\DevExpress.Mvvm.v14.2.xml
+C:\C#\Project\Remote\Исходный код аплоадера 2\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\DevExpress.Printing.v14.2.Core.xml
+C:\C#\Project\Remote\Исходный код аплоадера 2\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\DevExpress.Xpf.Core.v14.2.xml
+C:\C#\Project\Remote\Исходный код аплоадера 2\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\DevExpress.Xpf.LayoutControl.v14.2.xml
+C:\C#\Project\Remote\Исходный код аплоадера 2\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\RdpUploadClient.pdb
+C:\C#\Project\Remote\Исходный код аплоадера 2\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\RemoteDesktop.pdb
+C:\C#\Project\Remote\Исходный код аплоадера 2\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\de\DevExpress.Data.v14.2.resources.dll
+C:\C#\Project\Remote\Исходный код аплоадера 2\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\es\DevExpress.Data.v14.2.resources.dll
+C:\C#\Project\Remote\Исходный код аплоадера 2\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\ja\DevExpress.Data.v14.2.resources.dll
+C:\C#\Project\Remote\Исходный код аплоадера 2\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\ru\DevExpress.Data.v14.2.resources.dll
+C:\C#\Project\Remote\Исходный код аплоадера 2\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\de\DevExpress.Printing.v14.2.Core.resources.dll
+C:\C#\Project\Remote\Исходный код аплоадера 2\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\es\DevExpress.Printing.v14.2.Core.resources.dll
+C:\C#\Project\Remote\Исходный код аплоадера 2\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\ja\DevExpress.Printing.v14.2.Core.resources.dll
+C:\C#\Project\Remote\Исходный код аплоадера 2\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\ru\DevExpress.Printing.v14.2.Core.resources.dll
+C:\C#\Project\Remote\Исходный код аплоадера 2\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\de\DevExpress.Xpf.Core.v14.2.resources.dll
+C:\C#\Project\Remote\Исходный код аплоадера 2\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\es\DevExpress.Xpf.Core.v14.2.resources.dll
+C:\C#\Project\Remote\Исходный код аплоадера 2\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\ja\DevExpress.Xpf.Core.v14.2.resources.dll
+C:\C#\Project\Remote\Исходный код аплоадера 2\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\ru\DevExpress.Xpf.Core.v14.2.resources.dll
+C:\C#\Project\Remote\Исходный код аплоадера 2\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\de\DevExpress.Xpf.LayoutControl.v14.2.resources.dll
+C:\C#\Project\Remote\Исходный код аплоадера 2\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\es\DevExpress.Xpf.LayoutControl.v14.2.resources.dll
+C:\C#\Project\Remote\Исходный код аплоадера 2\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\ja\DevExpress.Xpf.LayoutControl.v14.2.resources.dll
+C:\C#\Project\Remote\Исходный код аплоадера 2\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\ru\DevExpress.Xpf.LayoutControl.v14.2.resources.dll
+C:\C#\Project\Remote\Исходный код аплоадера 2\Uploader\Rdp Uploader\Rdp Uploader\obj\Release\MainWindow.baml
+C:\C#\Project\Remote\Исходный код аплоадера 2\Uploader\Rdp Uploader\Rdp Uploader\obj\Release\RDP Uploader.g.resources
+C:\C#\Project\Remote\Исходный код аплоадера 2\Uploader\Rdp Uploader\Rdp Uploader\obj\Release\RDP_Uploader.Properties.Resources.resources
+C:\C#\Project\Remote\Исходный код аплоадера 2\Uploader\Rdp Uploader\Rdp Uploader\obj\Release\Rdp Uploader.csproj.GenerateResource.Cache
+C:\C#\Project\Remote\Исходный код аплоадера 2\Uploader\Rdp Uploader\Rdp Uploader\obj\Release\RDP Uploader.exe.licenses
+C:\C#\Project\Remote\Исходный код аплоадера 2\Uploader\Rdp Uploader\Rdp Uploader\obj\Release\RDP Uploader.exe
+C:\C#\Project\Remote\Исходный код аплоадера 2\Uploader\Rdp Uploader\Rdp Uploader\obj\Release\RDP Uploader.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\RDP Uploader.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Uploader\Rdp Uploader\Rdp Uploader\obj\Release\RDP Uploader.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Uploader\Rdp Uploader\Rdp Uploader\obj\Release\RDP Uploader.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\RDP Uploader.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\RDP Uploader.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\RdpUploadClient.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\RemoteDesktop.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\DevExpress.Data.v14.2.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\DevExpress.Mvvm.v14.2.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\DevExpress.Printing.v14.2.Core.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\DevExpress.Xpf.Core.v14.2.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\DevExpress.Xpf.LayoutControl.v14.2.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\RdpUploadClient.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\RemoteDesktop.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\de\DevExpress.Data.v14.2.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\es\DevExpress.Data.v14.2.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\ja\DevExpress.Data.v14.2.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\ru\DevExpress.Data.v14.2.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\de\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\es\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\ja\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\ru\DevExpress.Printing.v14.2.Core.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\de\DevExpress.Xpf.Core.v14.2.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\es\DevExpress.Xpf.Core.v14.2.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\ja\DevExpress.Xpf.Core.v14.2.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\ru\DevExpress.Xpf.Core.v14.2.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\de\DevExpress.Xpf.LayoutControl.v14.2.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\es\DevExpress.Xpf.LayoutControl.v14.2.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\ja\DevExpress.Xpf.LayoutControl.v14.2.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\ru\DevExpress.Xpf.LayoutControl.v14.2.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Uploader\Rdp Uploader\Rdp Uploader\obj\Release\Rdp Uploader.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Uploader\Rdp Uploader\Rdp Uploader\obj\Release\MessageBox.baml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Uploader\Rdp Uploader\Rdp Uploader\obj\Release\MainWindow.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Uploader\Rdp Uploader\Rdp Uploader\obj\Release\MessageBox.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Uploader\Rdp Uploader\Rdp Uploader\obj\Release\App.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Uploader\Rdp Uploader\Rdp Uploader\obj\Release\RDP Uploader_MarkupCompile.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Uploader\Rdp Uploader\Rdp Uploader\obj\Release\RDP Uploader_MarkupCompile.lref
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Uploader\Rdp Uploader\Rdp Uploader\obj\Release\MainWindow.baml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Uploader\Rdp Uploader\Rdp Uploader\obj\Release\RDP Uploader.g.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Uploader\Rdp Uploader\Rdp Uploader\obj\Release\RDP_Uploader.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Uploader\Rdp Uploader\Rdp Uploader\obj\Release\Rdp Uploader.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Uploader\Rdp Uploader\Rdp Uploader\obj\Release\RDP Uploader.exe.licenses
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Uploader\Rdp Uploader\Rdp Uploader\obj\Release\Rdp Uploader.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Uploader\Rdp Uploader\Rdp Uploader\obj\Release\MessageBox.baml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Uploader\Rdp Uploader\Rdp Uploader\obj\Release\MainWindow.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Uploader\Rdp Uploader\Rdp Uploader\obj\Release\MessageBox.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Uploader\Rdp Uploader\Rdp Uploader\obj\Release\App.g.cs
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Uploader\Rdp Uploader\Rdp Uploader\obj\Release\RDP Uploader_MarkupCompile.cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Uploader\Rdp Uploader\Rdp Uploader\obj\Release\RDP Uploader_MarkupCompile.lref
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\RDP Uploader.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\RDP Uploader.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\RDP Uploader.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\RdpUploadClient.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\RemoteDesktop.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\RdpUploadClient.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Uploader\Rdp Uploader\Rdp Uploader\bin\Release\RemoteDesktop.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Uploader\Rdp Uploader\Rdp Uploader\obj\Release\MainWindow.baml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Uploader\Rdp Uploader\Rdp Uploader\obj\Release\RDP Uploader.g.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Uploader\Rdp Uploader\Rdp Uploader\obj\Release\RDP_Uploader.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Uploader\Rdp Uploader\Rdp Uploader\obj\Release\Rdp Uploader.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Uploader\Rdp Uploader\Rdp Uploader\obj\Release\RDP Uploader.exe.licenses
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Uploader\Rdp Uploader\Rdp Uploader\obj\Release\RDP Uploader.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Uploader\Rdp Uploader\Rdp Uploader\obj\Release\RDP Uploader.pdb
+C:\Users\Administrator\UploaderRDP\Rdp Uploader\Rdp Uploader\bin\Release\RDP Uploader.exe.config
+C:\Users\Administrator\UploaderRDP\Rdp Uploader\Rdp Uploader\bin\Release\RDP Uploader.exe
+C:\Users\Administrator\UploaderRDP\Rdp Uploader\Rdp Uploader\bin\Release\RDP Uploader.pdb
+C:\Users\Administrator\UploaderRDP\Rdp Uploader\Rdp Uploader\bin\Release\RdpUploadClient.dll
+C:\Users\Administrator\UploaderRDP\Rdp Uploader\Rdp Uploader\bin\Release\RemoteDesktop.dll
+C:\Users\Administrator\UploaderRDP\Rdp Uploader\Rdp Uploader\bin\Release\RdpUploadClient.pdb
+C:\Users\Administrator\UploaderRDP\Rdp Uploader\Rdp Uploader\bin\Release\RemoteDesktop.pdb
+C:\Users\Administrator\UploaderRDP\Rdp Uploader\Rdp Uploader\obj\Release\Rdp Uploader.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\UploaderRDP\Rdp Uploader\Rdp Uploader\obj\Release\MessageBox.baml
+C:\Users\Administrator\UploaderRDP\Rdp Uploader\Rdp Uploader\obj\Release\MainWindow.g.cs
+C:\Users\Administrator\UploaderRDP\Rdp Uploader\Rdp Uploader\obj\Release\MessageBox.g.cs
+C:\Users\Administrator\UploaderRDP\Rdp Uploader\Rdp Uploader\obj\Release\App.g.cs
+C:\Users\Administrator\UploaderRDP\Rdp Uploader\Rdp Uploader\obj\Release\RDP Uploader_MarkupCompile.cache
+C:\Users\Administrator\UploaderRDP\Rdp Uploader\Rdp Uploader\obj\Release\RDP Uploader_MarkupCompile.lref
+C:\Users\Administrator\UploaderRDP\Rdp Uploader\Rdp Uploader\obj\Release\MainWindow.baml
+C:\Users\Administrator\UploaderRDP\Rdp Uploader\Rdp Uploader\obj\Release\RDP Uploader.g.resources
+C:\Users\Administrator\UploaderRDP\Rdp Uploader\Rdp Uploader\obj\Release\RDP_Uploader.Properties.Resources.resources
+C:\Users\Administrator\UploaderRDP\Rdp Uploader\Rdp Uploader\obj\Release\Rdp Uploader.csproj.GenerateResource.Cache
+C:\Users\Administrator\UploaderRDP\Rdp Uploader\Rdp Uploader\obj\Release\RDP Uploader.exe.licenses
+C:\Users\Administrator\UploaderRDP\Rdp Uploader\Rdp Uploader\obj\Release\RDP Uploader.exe
+C:\Users\Administrator\UploaderRDP\Rdp Uploader\Rdp Uploader\obj\Release\RDP Uploader.pdb

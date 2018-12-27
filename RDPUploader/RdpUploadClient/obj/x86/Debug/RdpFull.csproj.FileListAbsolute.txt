@@ -1,0 +1,12 @@
+C:\C#\Project\Remote\Recognizer_New\RdpFull\obj\x86\Debug\RemoteDesktop.exe
+C:\C#\Project\Remote\Recognizer_New\RdpFull\obj\x86\Debug\RemoteDesktop.pdb
+C:\C#\Project\Remote\RdpFullClient\bin\Debug\RdpFull.pdb
+C:\C#\Project\Remote\RdpFullClient\obj\x86\Debug\RdpFull.pdb
+C:\C#\Project\Remote\RdpFullClient\obj\x86\Debug\RdpFull.csprojResolveAssemblyReference.cache
+C:\C#\Project\Remote\RdpFullClient\bin\Debug\RdpFull.dll
+C:\C#\Project\Remote\RdpFullClient\obj\x86\Debug\RdpFull.dll
+C:\C#\Project\Remote\Uploader\RdpFullClient\obj\x86\Debug\RdpFull.csprojResolveAssemblyReference.cache
+C:\C#\Project\Remote\Uploader\RdpFullClient\bin\Debug\RdpUploadClient.dll
+C:\C#\Project\Remote\Uploader\RdpFullClient\bin\Debug\RdpUploadClient.pdb
+C:\C#\Project\Remote\Uploader\RdpFullClient\obj\x86\Debug\RdpUploadClient.dll
+C:\C#\Project\Remote\Uploader\RdpFullClient\obj\x86\Debug\RdpUploadClient.pdb

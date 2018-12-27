@@ -1,0 +1,2 @@
+C:\C#\Project\Remote\RemoteDesktop\Rdp Brute\Rdp Brute\obj\Debug\Ssh Brute.exe
+C:\C#\Project\Remote\RemoteDesktop\Rdp Brute\Rdp Brute\obj\Debug\Ssh Brute.pdb

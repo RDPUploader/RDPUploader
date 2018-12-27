@@ -1,0 +1,14 @@
+C:\C#\Project\Ssh Brute\Ssh Brute\bin\Debug\Ssh Brute.exe
+C:\C#\Project\Ssh Brute\Ssh Brute\bin\Debug\Ssh Brute.pdb
+C:\C#\Project\Ssh Brute\Ssh Brute\obj\Debug\Ssh Brute.csprojResolveAssemblyReference.cache
+C:\C#\Project\Ssh Brute\Ssh Brute\obj\Debug\MainWindow.g.cs
+C:\C#\Project\Ssh Brute\Ssh Brute\obj\Debug\App.g.cs
+C:\C#\Project\Ssh Brute\Ssh Brute\obj\Debug\Ssh Brute_MarkupCompile.cache
+C:\C#\Project\Ssh Brute\Ssh Brute\obj\Debug\Ssh Brute_MarkupCompile.lref
+C:\C#\Project\Ssh Brute\Ssh Brute\obj\Debug\MainWindow.baml
+C:\C#\Project\Ssh Brute\Ssh Brute\obj\Debug\Ssh Brute.g.resources
+C:\C#\Project\Ssh Brute\Ssh Brute\obj\Debug\Ssh_Brute.Properties.Resources.resources
+C:\C#\Project\Ssh Brute\Ssh Brute\obj\Debug\Ssh Brute.csproj.GenerateResource.Cache
+C:\C#\Project\Ssh Brute\Ssh Brute\obj\Debug\Ssh Brute.exe.licenses
+C:\C#\Project\Ssh Brute\Ssh Brute\obj\Debug\Ssh Brute.exe
+C:\C#\Project\Ssh Brute\Ssh Brute\obj\Debug\Ssh Brute.pdb

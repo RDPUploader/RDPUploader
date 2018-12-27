@@ -1,0 +1,68 @@
+C:\Users\Андрей\Desktop\Remote\RemoteDesktop\obj\x86\Release\RemoteDesktop.Properties.Resources.resources
+C:\Users\Андрей\Desktop\Remote\RemoteDesktop\obj\x86\Release\RemoteDesktop.csproj.GenerateResource.Cache
+C:\Users\Андрей\Desktop\Remote\RemoteDesktop\bin\Release\RemoteDesktop.dll
+C:\Users\Андрей\Desktop\Remote\RemoteDesktop\bin\Release\RemoteDesktop.pdb
+C:\Users\Андрей\Desktop\Remote\RemoteDesktop\obj\x86\Release\RemoteDesktop.dll
+C:\Users\Андрей\Desktop\Remote\RemoteDesktop\obj\x86\Release\RemoteDesktop.pdb
+C:\Users\Андрей\Desktop\Remote\RemoteDesktop\RemoteDesktop\bin\Release\RemoteDesktop.dll
+C:\Users\Андрей\Desktop\Remote\RemoteDesktop\RemoteDesktop\bin\Release\RemoteDesktop.pdb
+C:\Users\Андрей\Desktop\Remote\RemoteDesktop\RemoteDesktop\obj\x86\Release\RemoteDesktop.Properties.Resources.resources
+C:\Users\Андрей\Desktop\Remote\RemoteDesktop\RemoteDesktop\obj\x86\Release\RemoteDesktop.csproj.GenerateResource.Cache
+C:\Users\Андрей\Desktop\Remote\RemoteDesktop\RemoteDesktop\obj\x86\Release\RemoteDesktop.dll
+C:\Users\Андрей\Desktop\Remote\RemoteDesktop\RemoteDesktop\obj\x86\Release\RemoteDesktop.pdb
+C:\C#\Project\Remote\RemoteDesktop\RemoteDesktop\bin\Release\RemoteDesktop.dll
+C:\C#\Project\Remote\RemoteDesktop\RemoteDesktop\bin\Release\RemoteDesktop.pdb
+C:\C#\Project\Remote\RemoteDesktop\RemoteDesktop\obj\x86\Release\RemoteDesktop.dll
+C:\C#\Project\Remote\RemoteDesktop\RemoteDesktop\obj\x86\Release\RemoteDesktop.pdb
+C:\C#\Project\Remote\Data\TEST2\RemoteDesktop\RemoteDesktop\obj\x86\Release\RemoteDesktop.dll
+C:\C#\Project\Remote\Data\TEST2\RemoteDesktop\RemoteDesktop\bin\Release\RemoteDesktop.dll
+C:\C#\Project\Remote\Data\TEST2\RemoteDesktop\RemoteDesktop\bin\Release\RemoteDesktop.pdb
+C:\C#\Project\Remote\Data\TEST2\RemoteDesktop\RemoteDesktop\obj\x86\Release\RemoteDesktop.pdb
+C:\C#\Project\Remote\Data\TEST2\RemoteDesktop\RemoteDesktop\obj\x86\Release\RemoteDesktop.csprojResolveAssemblyReference.cache
+C:\C#\Project\Remote\Brute\RemoteDesktop\bin\Release\RemoteDesktop.dll
+C:\C#\Project\Remote\Brute\RemoteDesktop\bin\Release\RemoteDesktop.pdb
+C:\C#\Project\Remote\Brute\RemoteDesktop\obj\x86\Release\RemoteDesktop.dll
+C:\C#\Project\Remote\Brute\RemoteDesktop\obj\x86\Release\RemoteDesktop.pdb
+C:\C#\Project\Remote\Brute\RemoteDesktop\obj\x86\Release\RemoteDesktop.Properties.Resources.resources
+C:\C#\Project\Remote\Brute\RemoteDesktop\obj\x86\Release\RemoteDesktop.csproj.GenerateResource.Cache
+C:\C#\Project\Remote\Best Protect\Brute\RemoteDesktop\bin\Release\RemoteDesktop.dll
+C:\C#\Project\Remote\Best Protect\Brute\RemoteDesktop\bin\Release\RemoteDesktop.pdb
+C:\C#\Project\Remote\Best Protect\Brute\RemoteDesktop\obj\x86\Release\RemoteDesktop.Properties.Resources.resources
+C:\C#\Project\Remote\Best Protect\Brute\RemoteDesktop\obj\x86\Release\RemoteDesktop.csproj.GenerateResource.Cache
+C:\C#\Project\Remote\Best Protect\Brute\RemoteDesktop\obj\x86\Release\RemoteDesktop.dll
+C:\C#\Project\Remote\Best Protect\Brute\RemoteDesktop\obj\x86\Release\RemoteDesktop.pdb
+C:\C#\Project\Remote\Best Protect\Brute\RemoteDesktop\obj\x86\Release\RemoteDesktop.csprojResolveAssemblyReference.cache
+C:\C#\Project\Remote\Uploader\RemoteDesktop\bin\Release\RemoteDesktop.dll
+C:\C#\Project\Remote\Uploader\RemoteDesktop\bin\Release\RemoteDesktop.pdb
+C:\C#\Project\Remote\Uploader\RemoteDesktop\obj\x86\Release\RemoteDesktop.Properties.Resources.resources
+C:\C#\Project\Remote\Uploader\RemoteDesktop\obj\x86\Release\RemoteDesktop.csproj.GenerateResource.Cache
+C:\C#\Project\Remote\Uploader\RemoteDesktop\obj\x86\Release\RemoteDesktop.dll
+C:\C#\Project\Remote\Uploader\RemoteDesktop\obj\x86\Release\RemoteDesktop.pdb
+C:\C#\Project\Remote\Uploader\RemoteDesktop\obj\x86\Release\RemoteDesktop.csprojResolveAssemblyReference.cache
+C:\C#\Project\Remote\Исходный код аплоадера 2\Uploader\RemoteDesktop\bin\Release\RemoteDesktop.dll
+C:\C#\Project\Remote\Исходный код аплоадера 2\Uploader\RemoteDesktop\bin\Release\RemoteDesktop.pdb
+C:\C#\Project\Remote\Исходный код аплоадера 2\Uploader\RemoteDesktop\obj\x86\Release\RemoteDesktop.Properties.Resources.resources
+C:\C#\Project\Remote\Исходный код аплоадера 2\Uploader\RemoteDesktop\obj\x86\Release\RemoteDesktop.csproj.GenerateResource.Cache
+C:\C#\Project\Remote\Исходный код аплоадера 2\Uploader\RemoteDesktop\obj\x86\Release\RemoteDesktop.dll
+C:\C#\Project\Remote\Исходный код аплоадера 2\Uploader\RemoteDesktop\obj\x86\Release\RemoteDesktop.pdb
+C:\C#\Project\Remote\Исходный код аплоадера 2\Uploader\RemoteDesktop\obj\x86\Release\RemoteDesktop.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Uploader\RemoteDesktop\bin\Release\RemoteDesktop.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Uploader\RemoteDesktop\bin\Release\RemoteDesktop.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Uploader\RemoteDesktop\obj\x86\Release\RemoteDesktop.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Uploader\RemoteDesktop\obj\x86\Release\RemoteDesktop.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Uploader\RemoteDesktop\obj\x86\Release\RemoteDesktop.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Uploader\RemoteDesktop\obj\x86\Release\RemoteDesktop.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Uploader\RemoteDesktop\obj\x86\Release\RemoteDesktop.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Uploader\RemoteDesktop\obj\x86\Release\RemoteDesktop.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Uploader\RemoteDesktop\obj\x86\Release\RemoteDesktop.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Uploader\RemoteDesktop\bin\Release\RemoteDesktop.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Uploader\RemoteDesktop\bin\Release\RemoteDesktop.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Uploader\RemoteDesktop\obj\x86\Release\RemoteDesktop.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Uploader\RemoteDesktop\obj\x86\Release\RemoteDesktop.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Uploader\RemoteDesktop\obj\x86\Release\RemoteDesktop.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\UploaderRDP\RemoteDesktop\bin\Release\RemoteDesktop.dll
+C:\Users\Administrator\UploaderRDP\RemoteDesktop\bin\Release\RemoteDesktop.pdb
+C:\Users\Administrator\UploaderRDP\RemoteDesktop\obj\x86\Release\RemoteDesktop.Properties.Resources.resources
+C:\Users\Administrator\UploaderRDP\RemoteDesktop\obj\x86\Release\RemoteDesktop.csproj.GenerateResource.Cache
+C:\Users\Administrator\UploaderRDP\RemoteDesktop\obj\x86\Release\RemoteDesktop.dll
+C:\Users\Administrator\UploaderRDP\RemoteDesktop\obj\x86\Release\RemoteDesktop.pdb

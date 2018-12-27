@@ -1,0 +1,37 @@
+C:\C#\Project\Remote\Uploader\RdpUploadClient\bin\Release\RdpUploadClient.dll
+C:\C#\Project\Remote\Uploader\RdpUploadClient\bin\Release\RdpUploadClient.pdb
+C:\C#\Project\Remote\Uploader\RdpUploadClient\obj\x86\Release\RdpUploadClient.DebugForm.resources
+C:\C#\Project\Remote\Uploader\RdpUploadClient\obj\x86\Release\RdpUploadClient.Properties.Resources.resources
+C:\C#\Project\Remote\Uploader\RdpUploadClient\obj\x86\Release\RdpUploadClient.csproj.GenerateResource.Cache
+C:\C#\Project\Remote\Uploader\RdpUploadClient\obj\x86\Release\RdpUploadClient.dll
+C:\C#\Project\Remote\Uploader\RdpUploadClient\obj\x86\Release\RdpUploadClient.pdb
+C:\C#\Project\Remote\Исходный код аплоадера 2\Uploader\RdpUploadClient\bin\Release\RdpUploadClient.dll
+C:\C#\Project\Remote\Исходный код аплоадера 2\Uploader\RdpUploadClient\bin\Release\RdpUploadClient.pdb
+C:\C#\Project\Remote\Исходный код аплоадера 2\Uploader\RdpUploadClient\obj\x86\Release\RdpUploadClient.DebugForm.resources
+C:\C#\Project\Remote\Исходный код аплоадера 2\Uploader\RdpUploadClient\obj\x86\Release\RdpUploadClient.Properties.Resources.resources
+C:\C#\Project\Remote\Исходный код аплоадера 2\Uploader\RdpUploadClient\obj\x86\Release\RdpUploadClient.csproj.GenerateResource.Cache
+C:\C#\Project\Remote\Исходный код аплоадера 2\Uploader\RdpUploadClient\obj\x86\Release\RdpUploadClient.dll
+C:\C#\Project\Remote\Исходный код аплоадера 2\Uploader\RdpUploadClient\obj\x86\Release\RdpUploadClient.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Uploader\RdpUploadClient\bin\Release\RdpUploadClient.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Uploader\RdpUploadClient\bin\Release\RdpUploadClient.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Uploader\RdpUploadClient\obj\x86\Release\RdpUploadClient.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Uploader\RdpUploadClient\obj\x86\Release\RdpUploadClient.DebugForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Uploader\RdpUploadClient\obj\x86\Release\RdpUploadClient.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Uploader\RdpUploadClient\obj\x86\Release\RdpUploadClient.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Uploader\RdpUploadClient\obj\x86\Release\RdpUploadClient.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\Uploader\RdpUploadClient\obj\x86\Release\RdpUploadClient.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Uploader\RdpUploadClient\bin\Release\RdpUploadClient.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Uploader\RdpUploadClient\bin\Release\RdpUploadClient.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Uploader\RdpUploadClient\obj\x86\Release\RdpUploadClient.DebugForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Uploader\RdpUploadClient\obj\x86\Release\RdpUploadClient.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Uploader\RdpUploadClient\obj\x86\Release\RdpUploadClient.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Uploader\RdpUploadClient\obj\x86\Release\RdpUploadClient.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Uploader\RdpUploadClient\obj\x86\Release\RdpUploadClient.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Uploader\RdpUploadClient\obj\x86\Release\RdpUploadClient.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\UploaderRDP\RdpUploadClient\bin\Release\RdpUploadClient.dll
+C:\Users\Administrator\UploaderRDP\RdpUploadClient\bin\Release\RdpUploadClient.pdb
+C:\Users\Administrator\UploaderRDP\RdpUploadClient\obj\x86\Release\RdpUploadClient.DebugForm.resources
+C:\Users\Administrator\UploaderRDP\RdpUploadClient\obj\x86\Release\RdpUploadClient.Properties.Resources.resources
+C:\Users\Administrator\UploaderRDP\RdpUploadClient\obj\x86\Release\RdpUploadClient.csproj.GenerateResource.Cache
+C:\Users\Administrator\UploaderRDP\RdpUploadClient\obj\x86\Release\RdpUploadClient.dll
+C:\Users\Administrator\UploaderRDP\RdpUploadClient\obj\x86\Release\RdpUploadClient.pdb

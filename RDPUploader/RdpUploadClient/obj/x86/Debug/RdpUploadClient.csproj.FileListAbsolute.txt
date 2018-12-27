@@ -1,0 +1,7 @@
+C:\Users\Administrator\Uploaderrdp\RdpUploadClient\bin\Debug\RdpUploadClient.dll
+C:\Users\Administrator\Uploaderrdp\RdpUploadClient\bin\Debug\RdpUploadClient.pdb
+C:\Users\Administrator\Uploaderrdp\RdpUploadClient\obj\x86\Debug\RdpUploadClient.DebugForm.resources
+C:\Users\Administrator\Uploaderrdp\RdpUploadClient\obj\x86\Debug\RdpUploadClient.Properties.Resources.resources
+C:\Users\Administrator\Uploaderrdp\RdpUploadClient\obj\x86\Debug\RdpUploadClient.csproj.GenerateResource.Cache
+C:\Users\Administrator\Uploaderrdp\RdpUploadClient\obj\x86\Debug\RdpUploadClient.dll
+C:\Users\Administrator\Uploaderrdp\RdpUploadClient\obj\x86\Debug\RdpUploadClient.pdb

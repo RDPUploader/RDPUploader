@@ -1,0 +1,56 @@
+﻿using System;
+
+namespace RdpUploadClient
+{
+    internal enum FileInfoClass
+    {
+        ad = 30,
+        ao = 0x29,
+        FileAccessInformation = 8,
+        FileAlignmentInformation = 0x11,
+        FileAllInformation = 0x12,
+        FileAllocationInformation = 0x13,
+        FileAlternateNameInformation = 0x15,
+        FileAttributeTagInformation = 0x23,
+        FileBasicInformation = 4,
+        FileBothDirectoryInformation = 3,
+        FileCompressionInformation = 0x1c,
+        FileDirectoryInformation = 1,
+        FileDispositionInformation = 13,
+        FileEaInformation = 7,
+        FileEndOfFileInformation = 20,
+        FileFullDirectoryInformation = 2,
+        FileFullEaInformation = 15,
+        FileHardLinkInformation = 0x2e,
+        FileIdBothDirectoryInformation = 0x25,
+        FileIdFullDirectoryInformation = 0x26,
+        FileIdGlobalTxDirectoryInformation = 50,
+        FileInternalInformation = 6,
+        FileLinkInformation = 11,
+        FileMailslotQueryInformation = 0x1a,
+        FileMailslotSetInformation = 0x1b,
+        FileModeInformation = 0x10,
+        FileMoveClusterInformation = 0x1f,
+        FileNameInformation = 9,
+        FileNamesInformation = 12,
+        FileNetworkOpenInformation = 0x22,
+        FileNormalizedNameInformation = 0x30,
+        FileObjectIdInformation = 0x1d,
+        FilePipeInformation = 0x17,
+        FilePipeLocalInformation = 0x18,
+        FilePipeRemoteInformation = 0x19,
+        FilePositionInformation = 14,
+        FileQuotaInformation = 0x20,
+        FileRenameInformation = 10,
+        FileReparsePointInformation = 0x21,
+        FileSfioReserveInformation = 0x2c,
+        FileSfioVolumeInformation = 0x2d,
+        FileShortNameInformation = 40,
+        FileStandardInformation = 5,
+        FileStandardLinkInformation = 0x36,
+        FileStreamInformation = 0x16,
+        FileTrackingInformation = 0x24,
+        FileValidDataLengthInformation = 0x27
+
+    }
+}
